@@ -6,7 +6,7 @@ We revamped the program to provide more accurate information. This was a fun pro
 
 
 July 26, 2021
-A simple program that converts human years to dog years. This was my daughter's (12 yrs old) first python project and a great war to spend some father/daughter time. At the end 
+A simple program that converts human years to dog years. This was my daughter's (12 yrs old) first python project and a great war to spend some father/daughter time. 
 
 References:
 https://www.akc.org/expert-advice/health/how-to-calculate-dog-years-to-human-years/
